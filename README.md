@@ -1,2 +1,1 @@
-# learnGit
-This repo is for learning git
+# Data Sync
